@@ -21,8 +21,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone or download this repository:
 ```bash
-git clone [repository-url]
-cd [repository-name]
+gh repo clone bolorerdenebundgaa/figma-plugin-url-2-design
+cd figma-plugin-url-2-design
 ```
 
 2. Install the dependencies:
