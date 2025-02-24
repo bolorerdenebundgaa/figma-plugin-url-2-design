@@ -1,7 +1,5 @@
 # Figma Webpage Viewport Capture Plugin
 
-Author: Bolorerdene Bundgaa
-
 This plugin allows you to capture the visible viewport of any webpage and recreate it as Figma elements, preserving the layout, hierarchy, and basic styles of the webpage elements.
 
 ## Features
