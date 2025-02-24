@@ -1,3 +1,8 @@
+/**
+ * Figma Webpage Viewport Capture Plugin - Backend Server
+ * @author Bolorerdene Bundgaa
+ */
+
 const express = require('express');
 const puppeteer = require('puppeteer');
 const app = express();

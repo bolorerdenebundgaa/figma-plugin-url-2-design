@@ -1,3 +1,8 @@
+/**
+ * Figma Webpage Viewport Capture Plugin - Plugin Logic
+ * @author Bolorerdene Bundgaa
+ */
+
 figma.showUI(__html__, { width: 300, height: 150 });
 
 figma.ui.onmessage = async (msg) => {

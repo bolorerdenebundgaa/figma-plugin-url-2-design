@@ -1,5 +1,6 @@
 {
   "name": "Webpage Viewport Capture",
+  "author": "Bolorerdene Bundgaa",
   "id": "viewport-capture-plugin",
   "api": "1.0.0",
   "main": "plugin.js",
